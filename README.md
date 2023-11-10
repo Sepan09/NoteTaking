@@ -43,3 +43,6 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Repo
 https://github.com/Sepan09/NoteTaking
+
+## Heroku link:
+https://enigmatic-woodland-00593-10145aacf5f6.herokuapp.com/
